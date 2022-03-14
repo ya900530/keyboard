@@ -26,7 +26,13 @@
     
     
  <body>
-    
+    <nav>
+            <ol>
+                <h2>작성순서</h2>
+                    <li><a href = "http://localhost:8080/write.html" >편지지 작성</a></li>
+                   <li><a href = "http://localhost:8080/receive.html" >받을사람입력</a></li>
+                <li><a href = "http://localhost:8080/pay.html" >입금확인</a></li></ol>
+        </nav>
  <article>
             <ul>
               <h2>카카오뱅크 3333-11-4341976 (예금주: 김영재)</h2>
