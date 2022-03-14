@@ -31,9 +31,9 @@
          <nav>
             <ol>
                 <h2>작성순서</h2>
-                    <li><a href = "https://github.com/ya900530/keyboard/blob/main/write.html" >편지지 작성</a></li>
-                   <li><a href = "https://github.com/ya900530/keyboard/blob/main/receive.html" >받을사람입력</a></li>
-                <li><a href = "https://github.com/ya900530/keyboard/blob/main/pay.html" >입금확인</a></li></ol>
+                    <li><a href = "https://github.com/ya900530/keyboard/blob/main/write.md" >편지지 작성</a></li>
+                   <li><a href = "https://github.com/ya900530/keyboard/blob/main/receive.md" >받을사람입력</a></li>
+                <li><a href = "https://github.com/ya900530/keyboard/blob/main/pay.md" >입금확인</a></li></ol>
         </nav>
  <article>
             <ul>
