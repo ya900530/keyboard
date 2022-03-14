@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 
 <html>
     <head>
@@ -26,7 +25,10 @@
     
     
  <body>
-    <nav>
+    <header>
+            <h1> 오늘은 편지하나</h1>
+        </header>
+         <nav>
             <ol>
                 <h2>작성순서</h2>
                     <li><a href = "http://localhost:8080/write.html" >편지지 작성</a></li>
