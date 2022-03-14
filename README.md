@@ -37,11 +37,9 @@
         </nav>
  <article>
             <ul>
-              <h2>카카오뱅크 3333-11-4341976 (예금주: 김영재)</h2>
-                <h6>입금자명</h6>
-                    <textarea id="w3review" name="w3review" rows="4" cols="50" maxlength="10">
-                    </textarea>
-                
+              <h2>어서오세요 오늘은 편지하나 입니다. 만촌동 타자기라고도 합니다.</h2>
+                <h6>Welcome, I'm 'today, a letter' and 'Manchon Retro Keyboard'  </h6>
+                    
 </ul>
         </article>
   </body>
